@@ -1,0 +1,35 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="1200" fill="#E6E2D6"/>
+<path d="M100,300 L250,180 L400,300" fill="#8CA38B" opacity="0.7"/>
+<path d="M200,350 L350,220 L500,350" fill="#8CA38B" opacity="0.8"/>
+<path d="M300,400 L450,270 L600,400" fill="#3A5F40" opacity="0.9"/>
+<path d="M250,280 Q350,260 450,280" stroke="#8CA38B" fill="none" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
+<path d="M320,330 Q400,310 500,330" stroke="#8CA38B" fill="none" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
+<ellipse cx="280" cy="250" rx="15" ry="25" fill="#3A5F40" transform="rotate(30 280 250)"/>
+<ellipse cx="380" cy="220" rx="12" ry="20" fill="#3A5F40" transform="rotate(-15 380 220)"/>
+<ellipse cx="480" cy="280" rx="18" ry="28" fill="#3A5F40" transform="rotate(10 480 280)"/>
+<ellipse cx="350" cy="350" rx="14" ry="22" fill="#3A5F40" transform="rotate(-30 350 350)"/>
+<path d="M400,550 Q400,500 450,500 Q500,500 500,550 Q500,600 450,600 Q400,600 400,550" stroke="#3A5F40" fill="none" stroke-width="3"/>
+<path d="M450,500 L450,450 M420,550 L380,540" stroke="#3A5F40" stroke-width="3" fill="none"/>
+<ellipse cx="450" cy="450" rx="25" ry="8" stroke="#3A5F40" fill="none" stroke-width="3"/>
+<path d="M300,650 Q300,620 330,620 Q360,620 360,650 L360,680 Q360,700 330,700 Q300,700 300,680 Z" stroke="#3A5F40" fill="none" stroke-width="3"/>
+<path d="M500,650 Q500,620 530,620 Q560,620 560,650 L560,680 Q560,700 530,700 Q500,700 500,680 Z" stroke="#3A5F40" fill="none" stroke-width="3"/>
+<path d="M450,450 Q460,400 470,380" stroke="#C17C54" fill="none" stroke-width="2" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M455,445 Q465,390 480,360" stroke="#C17C54" fill="none" stroke-width="2" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M460,440 Q470,380 490,340" stroke="#C17C54" fill="none" stroke-width="2" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M200,380 Q400,400 600,380" stroke="#8CA38B" fill="none" stroke-width="2" opacity="0.5"/>
+<path d="M180,400 Q400,430 620,400" stroke="#8CA38B" fill="none" stroke-width="2" opacity="0.5"/>
+<text x="400" y="450" text-anchor="middle" font-family="Arial" font-size="48" font-weight="bold" fill="#3A5F40">桂平西山茶</text>
+<text x="400" y="510" text-anchor="middle" font-family="Arial" font-size="24" fill="#8CA38B">云雾滋养 千年茶韵</text>
+<text x="400" y="780" text-anchor="middle" font-family="Arial" font-size="20" fill="#3A5F40">
+<tspan x="400" dy="0">西山茶始于唐代，</tspan>
+<tspan x="400" dy="30">产于桂平西山景区，</tspan>
+<tspan x="400" dy="30">以嫩、翠、香、鲜著称。</tspan></text>
+<line x1="200" y1="850" x2="600" y2="850" stroke="#C17C54" stroke-width="2" stroke-dasharray="10,5"/>
+<text x="400" y="900" text-anchor="middle" font-family="Arial" font-size="18" fill="#3A5F40">
+<tspan x="400" dy="0">产地：广西桂平西山</tspan>
+<tspan x="400" dy="30">工艺：手工采摘·传统炒制</tspan>
+<tspan x="400" dy="30">特点：形美、色绿、味醇、香高</tspan></text>
+<rect x="650" y="1000" width="120" height="60" fill="#C17C54" opacity="0.9" rx="5"/>
+<text x="710" y="1035" text-anchor="middle" font-family="Arial" font-size="28" fill="#E6E2D6" font-weight="bold">西山</text>
+</svg>
